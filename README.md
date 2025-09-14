@@ -63,19 +63,34 @@ gantt
 
 ---
 
-## 🎯 Goals 2025
-- Membuat **TikTok Uploader v2** lebih stabil & scalable  
-- Menyelesaikan **Portfolio React** sebagai showcase pribadi  
-- Merilis minimal **2 project open-source** baru  
-- Berkontribusi di project open-source lain  
+## 🎯 Goals & 📊 Statistik
+| 🎯 Goals (Roadmap) | 📊 Statistik Tambahan |
+| ------------------ | --------------------- |
+| \`\`\`mermaid      |                       |
+| gantt              |                       |
+
 
 ---
 
 ## ☕ Dukungan
 
-Jika kamu suka dengan project saya, kamu bisa bantu dengan dukungan kecil:
+Jika kamu suka dengan project open-source saya dan ingin mendukung pengembangannya, kamu bisa traktir kopi di sini:
 
-<a href="https://trakteer.id/suhuku/tip" target="_blank"> <img src="https://img.shields.io/badge/☕-Trakteer-FF2E2E?style=for-the-badge&logo=buymeacoffee&logoColor=white" /> </a>
+### 🔹 Versi Badge
+[![Trakteer Badge](https://img.shields.io/badge/Trakteer-Support-red?logo=buymeacoffee&logoColor=white)](https://trakteer.id/suhuku/tip)
+
+### 🔹 Versi Banner Resmi
+[![Trakteer Banner](https://cdn.trakteer.id/images/mix/banner-trakteer-300x50.png)](https://trakteer.id/suhuku/tip)
+
+### 🔹 Versi Custom Button (Orange Style)
+<a href="https://trakteer.id/suhuku/tip" target="_blank">
+  <img src="https://img.shields.io/badge/☕-Trakteer-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+</a>
+
+### 🔹 Versi Custom Button (Red Style - Branding Trakteer)
+<a href="https://trakteer.id/suhuku/tip" target="_blank">
+  <img src="https://img.shields.io/badge/☕-Trakteer-FF2E2E?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+</a>
 
 ---
 
