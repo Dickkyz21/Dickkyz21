@@ -69,6 +69,14 @@ gantt
 | \`\`\`mermaid      |                       |
 | gantt              |                       |
 
+title Roadmap Proyek 2025
+dateFormat  YYYY-MM-DD
+section Project Automation
+TikTok Uploader v2   :active, 2025-09-15, 30d
+Bot Multi-Platform   :2025-10-20, 30d
+section Web Dev
+Portfolio React       :2025-11-05, 25d
+
 
 ---
 
