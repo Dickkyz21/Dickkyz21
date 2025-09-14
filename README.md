@@ -99,4 +99,4 @@ Jika kamu suka dengan project saya, kamu bisa bantu dengan dukungan kecil:
 
 ---
 
-✨ *“Code. Automate. Share. Repeat.”*
+✨ *“SUHUKU PEDIA - Posko Digital Creative Indonesia.”*
