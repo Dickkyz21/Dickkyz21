@@ -56,16 +56,10 @@ gantt
 
 ---
 
-## 📈 Statistik GitHub
+## 📊 Statistik & 🏆 Kontribusi
 | Statistik                                                                                                      | Kontribusi                                                                                        |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dickkyz21\&show_icons=true\&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dickkyz21\&theme=radical) |
-
----
-
-## 📊 Kontribusi & Aktivitas
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Dickkyz21&theme=tokyonight)  
 
 ---
 
