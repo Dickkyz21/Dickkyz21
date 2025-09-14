@@ -63,8 +63,6 @@ gantt
 
 ---
 
-## 🎯 Goals & 📊 Statistik
-
 | 🎯 Goals (Roadmap) | 📊 Statistik Tambahan |
 |--------------------|-----------------------|
 | ```mermaid
