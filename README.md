@@ -83,6 +83,7 @@ gantt
 Jika kamu suka dengan project saya, kamu bisa bantu dengan dukungan kecil:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
+<a href="https://trakteer.id/suhuku/tip" target="_blank"> <img src="https://img.shields.io/badge/☕-Trakteer-FF2E2E?style=for-the-badge&logo=buymeacoffee&logoColor=white" /> </a>
 
 ---
 
