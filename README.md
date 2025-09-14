@@ -23,10 +23,6 @@ pie
     "HTML" : 15
     "CSS" : 10
 
-## 🏆 My Github Stats and Activity
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dickkyz21&theme=gruvbox)](https://git.io/streak-stats)
 
-
-## 📺 Latest YouTube Videos
 
 
