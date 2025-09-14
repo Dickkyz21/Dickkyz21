@@ -22,6 +22,44 @@ pie
     "React" : 20
     "HTML" : 15
     "CSS" : 10
+```
+
+---
+
+## 📂 Proyek Unggulan
+
+- **[Tiktok Uploader](#)**  
+  *Bot TikTok untuk upload video otomatis menggunakan Python + Selenium.*  
+  `⭐ Fokus: Automation • Bahasa: Python • Teknologi: Selenium`
+
+---
+
+## 🔄 Workflow / Cara Kerja Saya
+
+```mermaid
+flowchart TD
+  A[Ide / Request] --> B[Analisa & Desain]
+  B --> C[Koding & Eksperimen]
+  C --> D[Testing & Debugging]
+  D --> E[Deploy / Rilis]
+  E --> F[Feedback & Iterasi]
+```
+
+---
+
+## 📅 Roadmap Singkat
+
+```mermaid
+gantt
+    title Roadmap Proyek 2025
+    dateFormat  YYYY-MM-DD
+    section Project Automation
+    TikTok Uploader v2   :active, 2025-09-15, 30d
+    Bot Multi-Platform   :2025-10-20, 30d
+    section Web Dev
+    Portfolio React       :2025-11-05, 25d
+    Mini SaaS Tool        :2025-12-01, 40d
+```
 
 ---
 
@@ -37,4 +75,44 @@ pie
 
 ---
 
+## 📊 Kontribusi & Aktivitas
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Dickkyz21&theme=tokyonight)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dickkyz21&theme=tokyo-night&hide_border=false)
+
+---
+
+## 🎯 Goals 2025
+- Membuat **TikTok Uploader v2** lebih stabil & scalable  
+- Menyelesaikan **Portfolio React** sebagai showcase pribadi  
+- Merilis minimal **2 project open-source** baru  
+- Berkontribusi di project open-source lain  
+
+---
+
+## ☕ Dukungan
+
+Jika kamu suka dengan project saya, kamu bisa bantu dengan dukungan kecil:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
+
+---
+
+## 📫 Hubungi Saya
+
+- 💬 [Telegram](https://t.me/+-BPNr-4VL1diZDg1)  
+- 📷 [Instagram](https://instagram.com/suhuku.pedia)  
+- ▶️ [YouTube](https://youtube.com/@SuhukuPedia)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/arsyah211197)  
+
+---
+
+## 📌 Statistik Tambahan
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dickkyz21&label=Profile%20Views&color=lightgrey&style=flat)  
+![GitHub Followers](https://img.shields.io/github/followers/Dickkyz21?label=Followers&style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/Dickkyz21?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
+---
+
+✨ *“Code. Automate. Share. Repeat.”*
