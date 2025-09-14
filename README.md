@@ -63,6 +63,21 @@ gantt
 
 ---
 
+## 🎯 Goals & 📊 Statistik
+
+| 🎯 Goals (Roadmap) | 📊 Statistik Tambahan |
+|--------------------|-----------------------|
+| ```mermaid
+gantt
+    title Roadmap Proyek 2025
+    dateFormat  YYYY-MM-DD
+    section Project Automation
+    TikTok Uploader v2   :active, 2025-09-15, 30d
+    Bot Multi-Platform   :2025-10-20, 30d
+    section Web Dev
+    Portfolio React       :2025-11-05, 25d
+``` | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dickkyz21&show_icons=true&theme=radical)<br><br>![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dickkyz21&theme=radical)<br><br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dickkyz21&layout=compact&theme=radical)<br><br>![GitHub Snake](https://github.com/dickkyz21/dickkyz21/blob/output/github-contribution-grid-snake.svg) |
+
 
 ---
 
@@ -73,21 +88,6 @@ Jika kamu suka dengan project open-source saya dan ingin mendukung pengembangann
 <a href="https://trakteer.id/suhuku/tip" target="_blank">
   <img src="https://img.shields.io/badge/☕-Trakteer-FF2E2E?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
 </a>
-
----
-
-## 🎥 Video Terbaru dari YouTube
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
----
-
-## 📌 Statistik Tambahan
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dickkyz21&label=Profile%20Views&color=lightgrey&style=flat)  
-![GitHub Followers](https://img.shields.io/github/followers/Dickkyz21?label=Followers&style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/Dickkyz21?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ---
 
