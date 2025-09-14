@@ -26,13 +26,6 @@ pie
 
 ---
 
-## 📂 Proyek Unggulan
-
-- **[Tiktok Uploader](#)**  
-  *Bot TikTok untuk upload video otomatis menggunakan Python + Selenium.*  
-  `⭐ Fokus: Automation • Bahasa: Python • Teknologi: Selenium`
-
----
 
 ## 🔄 Workflow / Cara Kerja Saya
 
@@ -93,12 +86,16 @@ Jika kamu suka dengan project saya, kamu bisa bantu dengan dukungan kecil:
 
 ---
 
-## 📫 Hubungi Saya
+## 🎥 Video Terbaru dari YouTube
 
-- 💬 [Telegram](https://t.me/+-BPNr-4VL1diZDg1)  
-- 📷 [Instagram](https://instagram.com/suhuku.pedia)  
-- ▶️ [YouTube](https://youtube.com/@SuhukuPedia)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/arsyah211197)  
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=5vfgxYGOG-M" target="_blank">
+    <img src="https://img.youtube.com/vi/VIDEO_ID1/0.jpg" width="250" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=3dxmL_KI-R0" target="_blank">
+    <img src="https://img.youtube.com/vi/VIDEO_ID2/0.jpg" width="250" />
+  </a>
+</p>
 
 ---
 
