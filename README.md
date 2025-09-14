@@ -75,7 +75,7 @@ gantt
     Bot Multi-Platform   :2025-10-20, 30d
     section Web Dev
     Portfolio React       :2025-11-05, 25d
-\`\`\
+\`\`\`
 ---
 
 ## ☕ Dukungan
