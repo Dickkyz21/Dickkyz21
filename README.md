@@ -90,10 +90,10 @@ Jika kamu suka dengan project saya, kamu bisa bantu dengan dukungan kecil:
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=5vfgxYGOG-M" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID1/0.jpg" width="250" />
+    <img src="https://img.youtube.com/vi/3dxmL_KI-R0/0.jpg" width="250" />
   </a>
   <a href="https://www.youtube.com/watch?v=3dxmL_KI-R0" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID2/0.jpg" width="250" />
+    <img src="https://img.youtube.com/vi/3dxmL_KI-R0/0.jpg" width="250" />
   </a>
 </p>
 
