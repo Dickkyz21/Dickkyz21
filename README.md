@@ -57,8 +57,9 @@ gantt
 ---
 
 ## 📈 Statistik GitHub
-
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Dickkyz21&show_icons=true&theme=tokyonight)  
+| Statistik                                                                                                      | Kontribusi                                                                                        |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dickkyz21\&show_icons=true\&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dickkyz21\&theme=radical) |
 
 ---
 
