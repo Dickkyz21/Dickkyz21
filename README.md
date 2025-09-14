@@ -59,14 +59,12 @@ gantt
 ## 📈 Statistik GitHub
 
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Dickkyz21&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dickkyz21&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📊 Kontribusi & Aktivitas
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dickkyz21&theme=tokyonight)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dickkyz21&theme=tokyo-night&hide_border=false)
 
 ---
 
@@ -82,7 +80,6 @@ gantt
 
 Jika kamu suka dengan project saya, kamu bisa bantu dengan dukungan kecil:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
 <a href="https://trakteer.id/suhuku/tip" target="_blank"> <img src="https://img.shields.io/badge/☕-Trakteer-FF2E2E?style=for-the-badge&logo=buymeacoffee&logoColor=white" /> </a>
 
 ---
