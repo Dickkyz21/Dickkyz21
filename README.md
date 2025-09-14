@@ -63,24 +63,6 @@ gantt
 
 ---
 
-## 🎯 Goals & 📊 Statistik
-
-| 🎯 Goals (Roadmap) | 📊 Statistik Tambahan |
-|--------------------|-----------------------|
-| ```mermaid
-gantt
-    title Roadmap Proyek 2025
-    dateFormat  YYYY-MM-DD
-    section Project Automation
-    TikTok Uploader v2   :active, 2025-09-15, 30d
-    Bot Multi-Platform   :2025-10-20, 30d
-    section Web Dev
-    Portfolio React       :2025-11-05, 25d
-``` | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dickkyz21&show_icons=true&theme=radical)<br><br>![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dickkyz21&theme=radical)<br><br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dickkyz21&layout=compact&theme=radical)<br><br>![GitHub Snake](https://github.com/dickkyz21/dickkyz21/blob/output/github-contribution-grid-snake.svg) |
-
-
----
-
 ## ☕ Dukungan
 
 Jika kamu suka dengan project open-source saya dan ingin mendukung pengembangannya, kamu bisa traktir kopi di sini:
