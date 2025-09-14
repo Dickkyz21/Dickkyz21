@@ -70,11 +70,6 @@ gantt
 
 ---
 
-## 🏆 My Github Stats and Activity
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dickkyz21&theme=gruvbox)](https://git.io/streak-stats)
-
----
-
 ## 📊 Kontribusi & Aktivitas
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dickkyz21&theme=tokyonight)  
