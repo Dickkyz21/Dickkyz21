@@ -69,33 +69,12 @@ gantt
 | \`\`\`mermaid      |                       |
 | gantt              |                       |
 
-title Roadmap Proyek 2025
-dateFormat  YYYY-MM-DD
-section Project Automation
-TikTok Uploader v2   :active, 2025-09-15, 30d
-Bot Multi-Platform   :2025-10-20, 30d
-section Web Dev
-Portfolio React       :2025-11-05, 25d
-
-
 ---
 
 ## ☕ Dukungan
 
 Jika kamu suka dengan project open-source saya dan ingin mendukung pengembangannya, kamu bisa traktir kopi di sini:
 
-### 🔹 Versi Badge
-[![Trakteer Badge](https://img.shields.io/badge/Trakteer-Support-red?logo=buymeacoffee&logoColor=white)](https://trakteer.id/suhuku/tip)
-
-### 🔹 Versi Banner Resmi
-[![Trakteer Banner](https://cdn.trakteer.id/images/mix/banner-trakteer-300x50.png)](https://trakteer.id/suhuku/tip)
-
-### 🔹 Versi Custom Button (Orange Style)
-<a href="https://trakteer.id/suhuku/tip" target="_blank">
-  <img src="https://img.shields.io/badge/☕-Trakteer-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
-</a>
-
-### 🔹 Versi Custom Button (Red Style - Branding Trakteer)
 <a href="https://trakteer.id/suhuku/tip" target="_blank">
   <img src="https://img.shields.io/badge/☕-Trakteer-FF2E2E?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
 </a>
