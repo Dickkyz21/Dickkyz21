@@ -23,6 +23,18 @@ pie
     "HTML" : 15
     "CSS" : 10
 
+---
 
+## 📈 Statistik GitHub
+
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Dickkyz21&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dickkyz21&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 My Github Stats and Activity
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dickkyz21&theme=gruvbox)](https://git.io/streak-stats)
+
+---
 
 
